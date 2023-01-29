@@ -1,0 +1,43 @@
+.navigation{
+  display: block;
+  background-color: mistyrose;
+  padding: 1rem;
+}
+a{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: peachpuff;
+  transition: 1s;
+}
+a:hover{
+  color: darkgray;
+  text-decoration: underline;
+  
+}
+.flashcard{
+  margin-top: 3rem;
+  width: 15rem;
+  border-style: solid;
+  border-color:mistyrose;
+  border-width: 5px;
+  border-radius: 1rem;
+  padding:0.7rem;
+  background-color: peachpuff;
+}
+h1{
+  color: mistyrose;
+}
+h2{
+  color:peachpuff
+}
+label{
+  color: peachpuff
+}
+input{
+  color: mistyrose
+}
+button{
+  color: darkgray
+}
+
+
